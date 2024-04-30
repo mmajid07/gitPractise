@@ -1,1 +1,1 @@
-Hi My name is Majid from dgk.
+Hi my name is Majid, I'm a flutter developer. I have one year experience in flutter programming.
